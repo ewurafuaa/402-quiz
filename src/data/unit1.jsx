@@ -584,7 +584,7 @@ const unit1 = [
     question: "Which of the following statements correctly distinguishes management from administration?",
     options: {
       A: "Management decides what is to be done, while administration decides who should do it",
-      B: "Management is a thinking function, while administration is a doing function",
+      B: "Management is a doing function, while administration is a thinking function",
       C: "Management is applicable to non-business concerns, while administration is applicable to business concerns",
       D: "Management constitutes owners, while administration constitutes employees"
     },
