@@ -28,10 +28,10 @@ console.log("[StudyApp] length =", unit1 && unit1.length);
 const RAW_UNITS = [
   { raw: unit1, id: "unit1", number: "I",    title: "Evolution of Management Science" },
   { raw: unit2, id: "unit2", number: "II",   title: "Planning" },
-  { raw: unit3, id: "unit3", number: "III",  title: "Unit III" },   // TODO: replace with the real title
-  { raw: unit4, id: "unit4", number: "IV",   title: "Unit IV" },    // TODO: replace with the real title
-  { raw: unit5, id: "unit5", number: "V",    title: "Unit V" },     // TODO: replace with the real title
-  { raw: unit6, id: "unit6", number: "VI",   title: "Unit VI" },    // TODO: replace with the real title
+  { raw: unit3, id: "unit3", number: "III",  title: "Organising" },   
+  { raw: unit4, id: "unit4", number: "IV",   title: "Leadership" },    
+  { raw: unit5, id: "unit5", number: "V",    title: "Communication" },     
+  { raw: unit6, id: "unit6", number: "VI",   title: "Controlling" },    
 ];
 
 const UNIT_SECTIONS = {
